@@ -10,5 +10,5 @@ require (
 	golang.org/x/crypto v0.0.0-20211215153901-e495a2d5b3d3
 	golang.org/x/image v0.0.0-20211028202545-6944b10bf410
 	golang.org/x/net v0.0.0-20220107192237-5cfca573fb4d
-	golang.org/x/text v0.3.7
+	golang.org/x/text v0.3.8
 )
